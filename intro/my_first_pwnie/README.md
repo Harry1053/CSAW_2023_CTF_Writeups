@@ -7,7 +7,7 @@
 >You must be this 👉 high to ride.
 >Note: flag is in /flag.txt
 
-# Ressources
+# Solution
 
 We are given a python file and netcat credentials to a server running the code.
 Besides some comments in the file, we have this code:
